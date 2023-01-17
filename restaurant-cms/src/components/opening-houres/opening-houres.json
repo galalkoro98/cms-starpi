@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_opening_houres_opening_houres",
+  "info": {
+    "displayName": "Opening Houres"
+  },
+  "options": {},
+  "attributes": {
+    "Houres": {
+      "type": "string"
+    },
+    "Days": {
+      "type": "string"
+    }
+  }
+}
